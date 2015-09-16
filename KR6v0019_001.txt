@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 015b
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS W
 #+PROPERTY: LASTPB <pb:KR6v0019_W_000-0379a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0019_W_001-0379a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
